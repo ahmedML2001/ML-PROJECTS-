@@ -1,4 +1,4 @@
-# MOVIE RECOMMENDATION SYSTEM (Improved Version)
+# MOVIE RECOMMENDATION SYSTEM
 
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
